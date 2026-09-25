@@ -9,7 +9,7 @@
         "id":2,
         "email":"teste@gmail.com",
         "senha":"teste",
-        "admin":"false"
+        "admin":false
     }
     ],
     "produtos":[
